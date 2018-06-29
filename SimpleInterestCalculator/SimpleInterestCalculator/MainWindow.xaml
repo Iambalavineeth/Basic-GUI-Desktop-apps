@@ -1,0 +1,36 @@
+﻿<Window x:Class="SimpleInterestCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleInterestCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="compAmt" Background="#FF19739A">
+        <Label Content="Interest Calculator" HorizontalAlignment="Left" Margin="310,26,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Principal/Initial Amount" HorizontalAlignment="Left" Margin="44,112,0,0" VerticalAlignment="Top"/>
+        <Label Content="Simple Interest Calculator" HorizontalAlignment="Left" Margin="73,68,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Time in Years" HorizontalAlignment="Left" Margin="44,174,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rate(% per annum)" HorizontalAlignment="Left" Margin="44,143,0,0" VerticalAlignment="Top"/>
+        <Label Content="Principal/Initial Amount" HorizontalAlignment="Left" Margin="439,112,0,0" VerticalAlignment="Top"/>
+        <Label Content="Rate(% per annum)" HorizontalAlignment="Left" Margin="439,143,0,0" VerticalAlignment="Top"/>
+        <Label Content="Time in Years" HorizontalAlignment="Left" Margin="439,174,0,0" VerticalAlignment="Top"/>
+        <Label Content="Compound Interest Calculator" HorizontalAlignment="Left" Margin="439,68,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="simpleAmt" HorizontalAlignment="Left" Height="23" Margin="202,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="compAmt1" HorizontalAlignment="Left" Height="23" Margin="635,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="simpleRate" HorizontalAlignment="Left" Height="23" Margin="202,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="simpleTime" HorizontalAlignment="Left" Height="23" Margin="202,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="compRate" HorizontalAlignment="Left" Height="23" Margin="636,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="compTime" HorizontalAlignment="Left" Height="23" Margin="635,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="simpleButton" Content="Calculate" HorizontalAlignment="Left" Margin="144,244,0,0" VerticalAlignment="Top" Width="75" Click="simpleButton_Click"/>
+        <Button x:Name="compButton" Content="Calculate" HorizontalAlignment="Left" Margin="534,244,0,0" VerticalAlignment="Top" Width="75" Click="compButton_Click"/>
+        <Label x:Name="simpleAns" Content="Ans" HorizontalAlignment="Left" Margin="284,295,0,0" VerticalAlignment="Top"/>
+        <Label Content="Final Amount" HorizontalAlignment="Left" Margin="44,295,0,0" VerticalAlignment="Top"/>
+        <Label Content="Final Amount" HorizontalAlignment="Left" Margin="439,295,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="compAns" Content="Ans" HorizontalAlignment="Left" Margin="725,295,0,0" VerticalAlignment="Top" BorderBrush="#FFEA1818"/>
+        <Button x:Name="clearBtn" Content="Clear" HorizontalAlignment="Left" Margin="360,358,0,0" VerticalAlignment="Top" Width="75" Click="clearBtn_Click"/>
+        <Label Content="Number of times compounded" HorizontalAlignment="Left" Margin="439,205,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="compNum" HorizontalAlignment="Left" Height="23" Margin="635,207,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

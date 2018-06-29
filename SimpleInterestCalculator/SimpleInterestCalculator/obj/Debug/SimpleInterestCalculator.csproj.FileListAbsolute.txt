@@ -1,0 +1,14 @@
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe.config
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.pdb
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\App.g.cs
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator_MarkupCompile.cache
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator_MarkupCompile.lref
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\MainWindow.baml
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.g.resources
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.Properties.Resources.resources
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.GenerateResource.cache
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.exe
+C:\Users\Bala Vineeth\source\repos\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.pdb

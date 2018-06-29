@@ -1,0 +1,15 @@
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp.csprojAssemblyReference.cache
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\MainWindow.g.cs
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\App.g.cs
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp_MarkupCompile.cache
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp_MarkupCompile.lref
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\bin\Debug\CarpentingApp.exe.config
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\bin\Debug\CarpentingApp.exe
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\bin\Debug\CarpentingApp.pdb
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\MainWindow.baml
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp.g.resources
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp.Properties.Resources.resources
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp.csproj.GenerateResource.cache
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp.csproj.CoreCompileInputs.cache
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp.exe
+C:\Users\Bala Vineeth\source\repos\CarpentingApp\CarpentingApp\obj\Debug\CarpentingApp.pdb
